@@ -100,7 +100,7 @@ main {
     display: grid;
     gap: 25px;
     justify-content: center;
-    grid-template-columns: repeat(auto-fit, minmax(150px));
+    grid-template-columns: repeat(auto-fit, 150px);
 }
 
 .menu-grid-item {
